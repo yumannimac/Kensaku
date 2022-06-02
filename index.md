@@ -150,3 +150,5 @@ $$
 \sum_{n=1}^{\infty } \frac{\left(-1\right) ^n}{n^2}
 =-\frac{\pi ^2}{12}
 $$
+
+![\sum_{n=1}^{N}a_n](https://latex.codecogs.com/gif.latex?\sum_{n=1}^{N}a_n)
