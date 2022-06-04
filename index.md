@@ -47,10 +47,10 @@ s
 $$
 
 生命科学
-
 $$
 \sin x=0 \leftrightarrow x=n\pi 
 $$
+a
 
 $
   \sin x 
